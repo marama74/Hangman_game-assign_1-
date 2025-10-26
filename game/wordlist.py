@@ -50,9 +50,9 @@ class WordlistManager:
                             self.categories[category] = words
                             print(f"✅ Loaded {len(words)} words from {category}")
                         else:
-                            print(f"⚠️  Warning: {filename} is empty")
+                            print(f" Warning: {filename} is empty")
                 except Exception as e:
-                    print(f"❌ Error loading {filename}: {e}")
+                    print(f" Error loading {filename}: {e}")
             else:
                 print(f"⚠️  Warning: {filename} not found in words/categories/")
         
