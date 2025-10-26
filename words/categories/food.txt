@@ -1,0 +1,210 @@
+ apple
+ banana
+ mango
+ orange
+ strawberry
+ grape
+ watermelon
+ pineapple
+ papaya
+ peach
+ pear
+ plum
+ cherry
+ blueberry
+ blackberry
+ raspberry
+ kiwi
+ apricot
+ pomegranate
+ fig
+ lemon
+ lime
+ coconut
+ date
+ guava
+ melon
+ cranberry
+ nectarine
+ tangerine
+ mulberry
+ carrot
+ potato
+ tomato
+ onion
+ garlic
+ broccoli
+ cauliflower
+ spinach
+ cabbage
+ lettuce
+ celery
+ radish
+ turnip
+ pumpkin
+ cucumber
+ zucchini
+ peas
+ beans
+ corn
+ beetroot
+ rice
+ pasta
+ noodles
+ bread
+ sandwich
+ burger
+ pizza
+ fries
+ taco
+ burrito
+ sushi
+ ramen
+ lasagna
+ spaghetti
+ dumplings
+ shawarma
+ kebab
+ falafel
+ hummus
+ pita
+ chicken
+ beef
+ mutton
+ fish
+ shrimp
+ lobster
+ crab
+ egg
+ steak
+ meatball
+ sausage
+ bacon
+ ham
+ salami
+ turkey
+ duck
+ goose
+ veal
+ pork
+ tofu
+ cheese
+ butter
+ milk
+ yogurt
+ cream
+ icecream
+ custard
+ pudding
+ milkshake
+ smoothie
+ chocolate
+ brownie
+ cupcake
+ muffin
+ donut
+ croissant
+ biscuit
+ cookie
+ waffle
+ pancake
+ jam
+ jelly
+ honey
+ syrup
+ buttercream
+ fondant
+ marshmallow
+ candy
+ toffee
+ lollipop
+ salad
+ soup
+ stew
+ omelette
+ porridge
+ cereal
+ toast
+ pasta salad
+ coleslaw
+ salsa
+ rice pudding
+ kheer
+ biryani
+ pulao
+ haleem
+ nihari
+ karahi
+ qorma
+ chapati
+ paratha
+ samosa
+ pakora
+ roll
+ spring roll
+ cutlet
+ nuggets
+ manchurian
+ fried rice
+ chowmein
+ dum biryani
+ dal
+ chana
+ rajma
+ palak paneer
+ butter chicken
+ mattar paneer
+ malai kofta
+ tandoori
+ naan
+ roti
+ idli
+ dosa
+ uttapam
+ vada
+ sambar
+ chutney
+ poha
+ upma
+ pav bhaji
+ misal pav
+ gulab jamun
+ jalebi
+ laddu
+ barfi
+ rasgulla
+ halwa
+ kheer
+ soan papdi
+ petha
+ gajak
+ tea
+ coffee
+ green tea
+ lemonade
+ cola
+ juice
+ smoothie
+ milkshake
+ coconut water
+ lassi
+ energy drink
+ hot chocolate
+ mocha
+ latte
+ espresso
+ americano
+ iced coffee
+ bubble tea
+ kombucha
+ ginger ale
+ popcorn
+ chips
+ nachos
+ pretzel
+ crackers
+ trail mix
+ granola bar
+ energy bar
+ fruit salad
+ veggie wrap
