@@ -1,14 +1,3 @@
-"""
-Hangman Game - Main Entry Point
-Assignment 1 - Terminal-based Hangman Game
-
-This file serves as the entry point and contains only high-level game flow logic.
-All implementation details are in separate modules.
-
-Author: Your Name
-Date: 2025
-"""
-
 from pathlib import Path
 from game.engine import HangmanEngine
 from game.wordlist import WordlistManager
