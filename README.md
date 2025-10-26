@@ -130,7 +130,7 @@ Minimum = 0
 
 ## Author
 
-Your Name – Assignment 1, October 2025
+Maryam Arshad(498506) – Assignment 1, October 2025
 
 ---
 
