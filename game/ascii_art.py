@@ -64,7 +64,7 @@ def get_hangman_art(wrong_count):
         |   |
         O   |
        /|   |
-            |
+            =
             |
       =========
         """,

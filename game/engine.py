@@ -249,7 +249,7 @@ class HangmanEngine:
             self.correct_letters = set(self.word)
             self.guessed_letters = set(self.word)
             self.game_won = True
-            print(f"🎉 Correct! You guessed the word!")
+            print(f"🎉 Correct! You guessed the word.!")
             self.guess_log.append((f"WORD:{guess}", True))
         else:
             # Wrong - counts as 1 wrong guess
